@@ -1,0 +1,14 @@
+{
+  "name": "vl-frame-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^16.10.1",
+    "jimp": "^0.16.1",
+    "minimist": "^1.2.5",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
